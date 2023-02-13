@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -17,42 +16,58 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm currently a final-year PhD candidate in the Department of Computer Science and Engineering at [The State University of New York at Buffalo (UB)](http://www.buffalo.edu/), working with [Prof. David Doermann](https://cse.buffalo.edu/~doermann/). Before joining UB, I obtained my MS and BS degrees (both with honors)) from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in 2017 and 2014, supervised by [Prof. Zhiguo Cao](http://faculty.hust.edu.cn/caozhiguo1/zh_CN/index.htm).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+**Research Interests**: Video Understanding, Human Motion Prediction, Action Recognition; Multi-modal Learning, Time series Modeling
 
+**Announcement**: I am seeking a research position.
+
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total `<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>`google scholar citations `<strong><span id='total_cit'>`260000+`</strong></a>` (You can also use google scholar badge `<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">``</a>`). -->
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+- 2023.01: I successfully defended my dissertation proposal.
+- 2022.02: I joined [XPENG Motors](https://heyxpeng.com/) as a Research Intern working with [Dr. Chen Bai](https://www.linkedin.com/in/chen-bai-a79743111/) and [Dr. Cheng Lu](https://www.linkedin.com/in/cheng-lu-5b24a739/).
+- 2021.05: I joined [OPPO US Research Center](https://www.innopeaktech.com/) as a research Intern working with [Dr. Zhong Li](https://sites.google.com/site/lizhong19900216) and [Dr. Yi Xu](https://www.linkedin.com/in/yi-xu-42654823/).
+- 2019.05: I joined [Fuji Xerox Palo Alto Lab (FXPAL)](https://www.linkedin.com/company/fx-palo-alto-laboratory/about/) as a Research Intern working with [Dr. Yanxia Zhang](https://www.yanxiazhang.com/) and [Dr. Qiong Liu](https://www.linkedin.com/in/qiong-liu-8229446/?locale=zh_CN).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# Selected Publications
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Yanjun Zhu**, Chen Bai, Cheng Lu. System and Method for Unified 2D and 3D Human Motion Prediction. US Patent Disclosure, 2022. Under review.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Zhao, Mengyi, Shuling Dai, **Yanjun Zhu**, Hao Tang, Pan Xie, Yue Li, Chunlei Liu, and Baochang Zhang. PB-GCN: Progressive binary graph convolutional networks for skeleton-based action recognition. *Neurocomputing* 501 (2022): 640-649.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+Zhibo Zhang*, **Yanjun Zhu***, Rahul Rai, and David Doermann.PIMNet: Physics-infused Neural Network for Human Motion Prediction. *IEEE Robotics and Automation Letters*, 7, No.4(2022): 8949-8955.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Yanjun Zhu**, Yanxia Zhang, Qiong Liu, Andreas Girgensohn, Daniel Avrahami, Francine Chen, Hao Hu. Systems and Method for Vision-based Joint Action and Pose Motion Forecasting. US Patent 10911775. 2021.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Yincheng Jin, Yang Gao, **Yanjun Zhu**, Wei Wang, Jiyang Li, Seokmin Choi, Zhangyu Li, Jagmohan Chauhan, Anind K. Dey, and Zhanpeng Jin. "Sonicasl: An acoustic-based sign language gesture recognizer using earphones." in Proceedings of the *ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)* 5, no. 2 (2021): 1-30.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Yanjun Zhu**, Yanxia Zhang, Qiong Liu, Andreas Girgensohn, and David Doermann. What and How? Jointly Forecasting Human Action and Pose. In *International Conference on Pattern Recognition (ICPR)*, 2020.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+Li'an Zhuo, Baochang Zhang, Hanlin Chen, Linlin Yang, Chen Chen, **Yanjun Zhu**, David Doermann. CP-NAS: Child-Parent Neural Architecture Search for 1-bit CNNs. In *International Joint Conference on Artificial Intelligence (IJCAI)*, 2020.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+**Yanjun Zhu**, Gang Yu, Junsong Yuan, and Kai-Kuang Ma. Selecting Informative Frames for Action Recognition with Partial Observations. In *IEEE International Conference on Image Processing (ICIP)*, pp. 465-469. Athens, Greece, Oct., 2018. (<font color=red>Oral </font>)
+
+Ziming Zhang, Yun Liu, Xi Chen, **Yanjun Zhu**. Ming-Ming Cheng, Venkatesh Saligrama, and Philip H.S. Torr. Sequential Optimization for Efficient High-Quality Object Proposal Generation. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 40(5), pp.1209-1223, 2017.
+
+**Yanjun Zhu**, Zhiguo Cao, Hao Lu, Yanan Li, and Yang Xiao. In-field automatic observation of wheat heading stage using computer vision. *Biosystems Engineering*, 143, pp.28-41, 2016. (<font color=red>Outstanding Paper Award </font>)
+
+# Teaching
+
+- 2023 Spring: Computer Vision and Image Processing
+- 2022 Fall: Information Retrivial
+- 2020 Fall: Blockchain Application Development
+- 2020 Spring, 2019 Fall: Introduction to Machine Learning
+
+# Honors and Awards
+
+- 2021.09, Best Presentation Award, OPPO US Research Center
+- 2018.07, European Society of Agricultural Engineers Outstanding Paper Award (1 per year)
+- 2016.10, National Scholarship for Graduate Students (< 1%)
+- 2014.12, Excellent Bachelor Thesis Award in Hubei Province, China (< 1%)
+
+# Services
+
+- Conference Reviewer: *ACCV, WACV, ICIP, ICCV, ECCV, CVPR, NeurIPS, ICLR, ACM Multimedia, AAAI*
+- Journal Reviewer: *Springer Plant Methods, IEEE TCSVT, Elsevier JVCIR*

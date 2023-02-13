@@ -1,4 +1,5 @@
 # main links links
+# url can be an external link
 main:
   - title: "About Me"
     url: "/#about-me"
@@ -7,16 +8,16 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#selected-publications"
+
+  - title: "Teaching"
+    url: "/#teaching"
+
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Services"
+    url: "/#services"
