@@ -16,13 +16,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a final-year PhD candidate in the Department of Computer Science and Engineering at [The State University of New York at Buffalo (UB)](http://www.buffalo.edu/), working with [Prof. David Doermann](https://cse.buffalo.edu/~doermann/). Before joining UB, I obtained my MS and BS degrees (both with honors)) from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), supervised by [Prof. Zhiguo Cao](http://faculty.hust.edu.cn/caozhiguo1/zh_CN/index.htm). I have published papers on AI conferences and journals with <a href='https://scholar.google.com/citations?user=lTUM3B0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I'm currently a final-year PhD candidate in the Department of Computer Science and Engineering at [The State University of New York at Buffalo (UB)](http://www.buffalo.edu/), working with [Prof. David Doermann](https://cse.buffalo.edu/~doermann/). Before joining UB, I obtained my MS and BS degrees (both with honors)) from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), supervised by [Prof. Zhiguo Cao](http://faculty.hust.edu.cn/caozhiguo1/zh_CN/index.htm). I have published papers on AI conferences and journals with <a href='https://scholar.google.com/citations?user=lTUM3B0AAAAJ'><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/yjzhux/yjzhux.github.io/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 **Research Interests**: Video  Understanding, Human Motion Prediction, Action Recognition; Multi-modal Learning, Time Series Modeling, Sequence Generation
 
 *<font color=red>I'm actively seeking a full-time research position.</font>*
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'> google scholar citations <strong><span id='total_cit'>`260000+`</strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+<!-- https://github.com/yjzhux/yjzhux.github.io/blob/google-scholar-stats/gs_data_shieldsio.json -->
+<!-- raw: https://raw.githubusercontent.com/yjzhux/yjzhux.github.io/google-scholar-stats/gs_data_shieldsio.json -->
+<!-- raw_encode: https%3A%2F%2Fraw.githubusercontent.com%2Fyjzhux%2Fyjzhux.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json -->
+
 
 # 🔥 News
 
