@@ -42,7 +42,7 @@ I'm currently a final-year PhD candidate in the Department of Computer Science a
 
 # Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/2023_UniMotion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/2023_UniMotion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **UniMotion: Uniﬁed Human Motion Prediction Machine for 2D and 3D Poses.**
