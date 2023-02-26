@@ -131,7 +131,7 @@ Ziming Zhang, Yun Liu, Xi Chen, **Yanjun Zhu**. Ming-Ming Cheng, Venkatesh Salig
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biosystems Engineering</div><img src='images/2016_wheat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biosystems Engineering</div><img src='images/2016_Wheat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **In-field automatic observation of wheat heading stage using computer vision**
