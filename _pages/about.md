@@ -29,6 +29,7 @@ I'm currently a final-year PhD candidate in the Department of Computer Science a
 
 # 🔥 News
 
+- [2023.02] One paper on Continual Learning accepted by *CVPR*.
 - [2023.01] I successfully defended my dissertation proposal.
 - [2022.07] One paper on Human Action Recognition accepted by *Neurocomputing*.
 - [2022.06] One paper on Human Motion Prediction accepted by *IROS* and *IEEE Robotics and Automation Letters*.
@@ -45,10 +46,21 @@ I'm currently a final-year PhD candidate in the Department of Computer Science a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/2023_UniMotion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**UniMotion: Uniﬁed Human Motion Prediction Machine for 2D and 3D Poses.**
+**UniMotion: Uniﬁed Human Motion Prediction Machine for 2D and 3D Poses**
 
 **Yanjun Zhu**, Chen Bai, Cheng Lu, David Doermann
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/2023_MetaMix.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MetaMix: Towards Corruption-Robust Continual Learning with Temporally Self-Adaptive Data Transformation**
+
+Zhenyi Wang, Li Shen, Donglin Zhan, Qiuling Suo, **Yanjun Zhu**, Tiehang Duan, Mingchen Gao
+
+*Computer Vision and Pattern Recognition (CVPR)*, 2023
 </div>
 </div>
 
