@@ -29,17 +29,17 @@ I'm currently a final-year PhD candidate in the Department of Computer Science a
 
 # 🔥 News
 
-- [2023.02] One paper on Continual Learning accepted by *CVPR*.
+- [2023.02] One paper on Continual Learning accepted by *CVPR 2023*.
 - [2023.01] I successfully defended my dissertation proposal.
 - [2022.07] One paper on Human Action Recognition accepted by *Neurocomputing*.
-- [2022.06] One paper on Human Motion Prediction accepted by *IROS* and *IEEE Robotics and Automation Letters*.
+- [2022.06] One paper on Human Motion Prediction accepted by *IROS 2022* and *IEEE Robotics and Automation Letters*.
 - [2022.02] I joined [XPENG Motors](https://heyxpeng.com/) as a Research Intern working with [Dr. Chen Bai](https://www.linkedin.com/in/chen-bai-a79743111/) and [Dr. Cheng Lu](https://www.linkedin.com/in/cheng-lu-5b24a739/).
 - [2021.05] I joined [OPPO US Research Center](https://www.innopeaktech.com/) as a Research Intern working with [Dr. Zhong Li](https://sites.google.com/site/lizhong19900216) and [Dr. Yi Xu](https://www.linkedin.com/in/yi-xu-42654823/).
-- [2021.01] One paper on Sign Language Recognition accepted by *IMWUT*.
-- [2020.10] One paper on Human Action Prediction accepted by *ICPR*.
+- [2021.01] One paper on Sign Language Recognition accepted by *IMWUT 2021*.
+- [2020.10] One paper on Human Action Prediction accepted by *ICPR 2020*.
+- [2020.04] One paper on Neural Architecture Search accepted by *IJCAI 2020*.
 - [2019.05] I joined [Fuji Xerox Palo Alto Lab (FXPAL)](https://www.linkedin.com/company/fx-palo-alto-laboratory/about/) as a Research Intern working with [Dr. Yanxia Zhang](https://www.yanxiazhang.com/) and [Dr. Qiong Liu](https://www.linkedin.com/in/qiong-liu-8229446/?locale=zh_CN).
-- [2020.04] One paper on Neural Architecture Search accepted by *IJCAI*.
-- [2018.10] One paper on Human Action Prediction accepted by *ICIP*.
+- [2018.10] One paper on Human Action Prediction accepted by *ICIP 2018*.
 
 # Selected Publications
 
@@ -48,12 +48,11 @@ I'm currently a final-year PhD candidate in the Department of Computer Science a
 
 **UniMotion: Uniﬁed Human Motion Prediction Machine for 2D and 3D Poses**
 
-**Yanjun Zhu**, Chen Bai, Cheng Lu, David Doermann
-
+Yanjun Zhu *et al.*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/2023_MetaMix.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/2023_MetaMix.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MetaMix: Towards Corruption-Robust Continual Learning with Temporally Self-Adaptive Data Transformation**
