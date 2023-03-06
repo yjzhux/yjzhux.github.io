@@ -52,7 +52,7 @@ Yanjun Zhu *et al.*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/2023_MetaMix.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/2023_MetaMix.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MetaMix: Towards Corruption-Robust Continual Learning with Temporally Self-Adaptive Data Transformation**
@@ -61,7 +61,7 @@ Zhenyi Wang, Li Shen, Donglin Zhan, Qiuling Suo, **Yanjun Zhu**, Tiehang Duan, M
 
 *Computer Vision and Pattern Recognition (CVPR)*, 2023
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/2022_PIMNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -109,7 +109,7 @@ Yincheng Jin, Yang Gao, **Yanjun Zhu**, Wei Wang, Jiyang Li, Seokmin Choi, Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2020</div><img src='images/2020_CP-NAS.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2020</div><img src='images/2020_CP-NAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CP-NAS: Child-Parent Neural Architecture Search for 1-bit CNNs**
@@ -118,7 +118,7 @@ Li'an Zhuo, Baochang Zhang, Hanlin Chen, Linlin Yang, Chen Chen, **Yanjun Zhu**,
 
 *International Joint Conference on Artificial Intelligence (IJCAI)*, 2020.
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2018</div><img src='images/2018_KeyFrame.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
