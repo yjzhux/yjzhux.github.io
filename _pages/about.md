@@ -16,7 +16,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a final-year PhD candidate in the Department of Computer Science and Engineering at [The State University of New York at Buffalo (UB)](http://www.buffalo.edu/), working with [Prof. David Doermann](https://cse.buffalo.edu/~doermann/). Before joining UB, I obtained my MS and BS degrees (both with honors)) from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), supervised by [Prof. Zhiguo Cao](http://faculty.hust.edu.cn/caozhiguo1/zh_CN/index.htm). I have published papers on AI conferences and journals with <a href='https://scholar.google.com/citations?user=lTUM3B0AAAAJ'><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/yjzhux/yjzhux.github.io/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I'm currently a final-year PhD candidate in the Department of Computer Science and Engineering at [The State University of New York at Buffalo (UB)](http://www.buffalo.edu/), working with [Prof. David Doermann](https://cse.buffalo.edu/~doermann/). Before joining UB, I obtained my MS and BS degrees (both with honors)) from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), supervised by [Prof. Zhiguo Cao](http://faculty.hust.edu.cn/caozhiguo1/zh_CN/index.htm). 
+<!-- I have published papers on AI conferences and journals with <a href='https://scholar.google.com/citations?user=lTUM3B0AAAAJ'><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/yjzhux/yjzhux.github.io/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
 **Research Interests**: Video  Understanding, Human Motion Prediction, Action Recognition; Multi-modal Learning, Time Series Modeling, Sequence Generation
 
