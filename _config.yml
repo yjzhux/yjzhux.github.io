@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yanjun Zhu"
-description              : "Department of Computer Science and Engineering, University at Buffalo"
+description              : "The Institute for Experiential AI, Northeastern Unversity"
 repository               : "yjzhux/yjzhux.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yanjun Zhu"
   avatar           : "images/photo_800x800.jpg"
-  bio              : "PhD Candidate"
-  location         : "Buffalo, NY"
+  bio              : "Research Fellow"
+  location         : "Boston, MA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=lTUM3B0AAAAJ"
-  email            : "yjzhu@buffalo.edu"
+  email            : "ya.zhu@northeastern.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
