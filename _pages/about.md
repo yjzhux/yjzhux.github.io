@@ -35,7 +35,7 @@ For NU students: feel free to send me an email if you are interested in working 
 <div style="width: 100%; height: 150px; overflow-y: auto; padding: 10px;" markdown="1">
 
 - [2024.12] Two papers on Human Motion Prediction and Affective Computing accepted by WACVW 2025.
-- [2024.11]We are organizing [Elderly Action Recognition Challenge](https://voxel51.com/computer-vision-events/elderly-action-recognition-challenge-wacv-2025/) with Voxel51.
+- [2024.11] We are organizing [Elderly Action Recognition Challenge](https://voxel51.com/computer-vision-events/elderly-action-recognition-challenge-wacv-2025/) with Voxel51.
 - [2024.10] We are organizing [CV4Smalls](https://cv4smalls2025.sites.northeastern.edu/) Workshop in WACV 2025.
 - [2024.08] One paper on Human Attention Interruption Analysis accepted by *ICPR 2024*.
 - [2024.05] One patent on Human Motion Prediction approved.
