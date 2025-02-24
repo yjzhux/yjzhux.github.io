@@ -53,7 +53,7 @@ For NU students: feel free to send me an email if you are interested in working 
 - [2020.04] One paper on Neural Architecture Search accepted by *IJCAI 2020*.
 - [2019.05] I joined [Fuji Xerox Palo Alto Lab (FXPAL)](https://www.linkedin.com/company/fx-palo-alto-laboratory/about/) as a Research Intern working with [Dr. Yanxia Zhang](https://www.yanxiazhang.com/) and [Dr. Qiong Liu](https://www.linkedin.com/in/qiong-liu-8229446/?locale=zh_CN).
 - [2018.10] One paper on Human Action Prediction accepted by *ICIP 2018*.
-- [2018.08] I joined UB as a Ph.D student.
+- [2018.08] I started my PhD in Computer Science at UB.
 
 </div>
 
@@ -78,7 +78,7 @@ For NU students: feel free to send me an email if you are interested in working 
 
   Wen Xie, Lingfei Luan, **Yanjun Zhu**, Yakov Bart, and Sarah Ostadabbas
 
-  *International Conference on Pattern Recognition (ICPR)*, 2025
+  *International Conference on Pattern Recognition (ICPR)*, 2024
   </div>
 </div>
 
@@ -150,7 +150,7 @@ Yincheng Jin, Yang Gao, **Yanjun Zhu**, Wei Wang, Jiyang Li, Seokmin Choi, Zhang
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2020</div><img src='images/2020_CP-NAS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2020</div><img src='images/2020_CP-NAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CP-NAS: Child-Parent Neural Architecture Search for 1-bit CNNs**
@@ -159,7 +159,7 @@ Li'an Zhuo, Baochang Zhang, Hanlin Chen, Linlin Yang, Chen Chen, **Yanjun Zhu**,
 
 *International Joint Conference on Artificial Intelligence (IJCAI)*, 2020.
 </div>
-</div> -->
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2018</div><img src='images/2018_KeyFrame.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -213,7 +213,7 @@ Ziming Zhang, Yun Liu, Xi Chen, **Yanjun Zhu**. Ming-Ming Cheng, Venkatesh Salig
 - **Workshop Chair**: [CV4Smalls](https://cv4smalls2025.sites.northeastern.edu/) with WACV 2025
 - **Challenge Organizer**: [Elderly Action Recognition Challenge](https://voxel51.com/computer-vision-events/elderly-action-recognition-challenge-wacv-2025/) with Voxel51
 - **Journal Guest Editor**: *Multimodal Tools and Applications (Special Issue, 2024)*
-- **Journal Reviewer**: **Springer Plant Methods, IEEE TCSVT, Elsevier JVCIR, Multimodal Tools and Applications**
+- **Journal Reviewer**: *Springer Plant Methods, IEEE TCSVT, Elsevier JVCIR, Multimodal Tools and Applications*
 - **Conference Reviewer**: *ICIP, ICPR, ICCV, ECCV, CVPR, ACCV, WACV, NeurIPS, ICLR, ICML, ACM Multimedia, ICDAR, AAAI, MICCAI*
 
 # &nbsp;
