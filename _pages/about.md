@@ -19,7 +19,7 @@ redirect_from:
 I'm currently a Postdoctoral Research Fellow at [The Institute for Experiential AI (EAI)](https://ai.northeastern.edu/) at Northeastern Unversity. I do research on computer vision and machine learning with applications for healthcare, working closely with [Dr. Agata Lapedriza](https://s3.sunai.uoc.edu/web/agata/index.html), [Dr. Sarah Ostadabbas](https://coe.northeastern.edu/people/ostadabbas-sarah/), and [Dr. Eugene Tunik](https://bouve.northeastern.edu/directory/eugene-tunik/). Prior to joining to EAI, I received my Ph.D in Computer Science from [The State University of New York at Buffalo (UB)](http://www.buffalo.edu/), working on human activity analysis with [Dr. David Doermann](https://cse.buffalo.edu/~doermann/). Before joining UB, I obtained my MS and BS degrees (both with honors) from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), advised by [Dr. Zhiguo Cao](https://scholar.google.com/citations?user=396o2BAAAAAJ&hl=en). I enjoy hiking, skiing, playing ping-pong, and exploring towns with my camera.
 <!-- [Dr. Zhiguo Cao](http://faculty.hust.edu.cn/caozhiguo1/zh_CN/index.htm). I have published papers on AI conferences and journals with <a href='https://scholar.google.com/citations?user=lTUM3B0AAAAJ'><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/yjzhux/yjzhux.github.io/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
-**Research Interests**: Video Understanding, Human Motion Prediction, Action Recognition; Multi-modal Learning, Time Series Modeling, Sequence Generation
+**Research Interests**: Human Action/Motion Analytics, Video Understanding, Human-Centric AI for Health; Multimodal Learning, Time Series Modeling, Sequence Generation
 
 <!-- *<font color=red>I am on the job market for positions in Fall 2023.</font>* -->
 <font color=red>
@@ -34,6 +34,7 @@ For NU students: feel free to send me an email if you are interested in working 
 
 <div style="width: 100%; height: 150px; overflow-y: auto; padding: 10px;" markdown="1">
 
+- [2025.02] I was invited to serve as a mentor for the WACV 2025 Doctoral Consortium.
 - [2024.12] Two papers on Human Motion Prediction and Affective Computing accepted by WACVW 2025.
 - [2024.11] We are organizing [Elderly Action Recognition Challenge](https://voxel51.com/computer-vision-events/elderly-action-recognition-challenge-wacv-2025/) with Voxel51.
 - [2024.10] We are organizing [CV4Smalls](https://cv4smalls2025.sites.northeastern.edu/) Workshop in WACV 2025.

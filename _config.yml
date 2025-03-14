@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # yjzhux # e.g., "linkedin username"
+  linkedin         : yjzhux # e.g., "linkedin username"
   dblp             : https://dblp.org/pid/160/5989.html # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : https://orcid.org/0000-0002-8841-6072 # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  semanticscholar  : https://www.semanticscholar.org/author/Y.-Zhu/2563751
+  semanticscholar  : # https://www.semanticscholar.org/author/Y.-Zhu/2563751
 
 
 # Reading Files
