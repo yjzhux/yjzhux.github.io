@@ -16,14 +16,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a Postdoctoral Research Fellow at [The Institute for Experiential AI (EAI)](https://ai.northeastern.edu/) at Northeastern Unversity. I do research on computer vision and machine learning with applications for healthcare, working closely with [Dr. Agata Lapedriza](https://s3.sunai.uoc.edu/web/agata/index.html), [Dr. Sarah Ostadabbas](https://coe.northeastern.edu/people/ostadabbas-sarah/), and [Dr. Eugene Tunik](https://bouve.northeastern.edu/directory/eugene-tunik/). Prior to joining to EAI, I received my Ph.D in Computer Science from [The State University of New York at Buffalo (UB)](http://www.buffalo.edu/), working on human activity analysis with [Dr. David Doermann](https://cse.buffalo.edu/~doermann/). Before joining UB, I obtained my MS and BS degrees (both with honors) from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), advised by [Dr. Zhiguo Cao](https://scholar.google.com/citations?user=396o2BAAAAAJ&hl=en). I enjoy hiking, skiing, playing ping-pong, and exploring towns with my camera.
+I am a Senior Research Scientist at [Familiar Machines & Magic (FM&M)](https://www.familiarmachines.com/), where I work on health-related solutions leveraging robotics and AI. I am also an Affiliated Research Scientist with [The Institute for Experiential AI (EAI)](https://ai.northeastern.edu/) at Northeastern Unversity conducting research on computer vision and machine learning for healthcare applications in collaboration with [Dr. Agata Lapedriza](https://s3.sunai.uoc.edu/web/agata/index.html), [Dr. Sarah Ostadabbas](https://coe.northeastern.edu/people/ostadabbas-sarah/), and [Dr. Eugene Tunik](https://bouve.northeastern.edu/directory/eugene-tunik/). Prior to joining EAI, I earned my Ph.D in Computer Science from [The State University of New York at Buffalo (UB)](http://www.buffalo.edu/), where I worked with [Dr. David Doermann](https://cse.buffalo.edu/~doermann/) on human activity and motion analysis. Before that, I received my M.S. and B.S. degrees (both with honors) from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), advised by [Dr. Zhiguo Cao](https://scholar.google.com/citations?user=396o2BAAAAAJ&hl=en). Outside of work, I enjoy hiking, skiing, playing ping-pong, tennis, and basketball, as well as exploring towns with my camera.
 <!-- [Dr. Zhiguo Cao](http://faculty.hust.edu.cn/caozhiguo1/zh_CN/index.htm). I have published papers on AI conferences and journals with <a href='https://scholar.google.com/citations?user=lTUM3B0AAAAJ'><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/yjzhux/yjzhux.github.io/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
-**Research Interests**: Human Action/Motion Analytics, Video Understanding, Human-Centric AI for Health; Multimodal Learning, Time Series Modeling, Sequence Generation
+**Research Interests**: Human Action/Motion/Emotion Analytics, Video Understanding, Human-Centric AI for Health; Multimodal Learning, Time Series Modeling, Vision Language Models
 
 <!-- *<font color=red>I am on the job market for positions in Fall 2023.</font>* -->
-<font color=red>
-For NU students: feel free to send me an email if you are interested in working with me.</font>
+<!-- <font color=red>
+For NU students: feel free to send me an email if you are interested in working with me.</font> -->
 
 <!-- https://github.com/yjzhux/yjzhux.github.io/blob/google-scholar-stats/gs_data_shieldsio.json -->
 <!-- raw: https://raw.githubusercontent.com/yjzhux/yjzhux.github.io/google-scholar-stats/gs_data_shieldsio.json -->
