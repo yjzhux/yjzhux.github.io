@@ -34,26 +34,30 @@ For NU students: feel free to send me an email if you are interested in working 
 
 <div style="width: 100%; height: 150px; overflow-y: auto; padding: 10px;" markdown="1">
 
-- [2025.02] I was invited to serve as a mentor for the WACV 2025 Doctoral Consortium.
-- [2024.12] Two papers on Human Motion Prediction and Affective Computing accepted by WACVW 2025.
+- [2025.11] One paper on *Ad Video Summarization* accepted by *Multimedia Modeling 2026*. Huge congrats to [Wen](https://wenxie18.github.io/) and all collaborators! 🎉🎉
+- [2025.10] One paper on *Continual Learning* accepted by *TPAMI*. Huge congrats to [Zhenyi](https://joey-wang123.github.io/) and all collaborators! 🎉🎉
+- [2025.08] I joined FM&M as a Sr. Research Scientist. 
+- [2025.05] Life system update complete: Baby Jasper v1.0 successfully launched. Welcome to the world, little one! 👶✨
+- [2025.02] I was invited to serve as a mentor for the *WACV 2025 Doctoral Consortium*.
+- [2024.12] Two papers on *Human Motion Prediction* and *Affective Computing* accepted by WACVW 2025.
 - [2024.11] We are organizing [Elderly Action Recognition Challenge](https://voxel51.com/computer-vision-events/elderly-action-recognition-challenge-wacv-2025/) with Voxel51.
-- [2024.10] We are organizing [CV4Smalls](https://cv4smalls2025.sites.northeastern.edu/) Workshop in WACV 2025.
-- [2024.08] One paper on Human Attention Interruption Analysis accepted by *ICPR 2024*.
-- [2024.05] One patent on Human Motion Prediction approved.
-- [2023.09] One paper on defending against Data-Free Model Extraction (DFME) accepted by *NeurIPS 2023*.
+- [2024.10] We are organizing [CV4Smalls](https://cv4smalls2025.sites.northeastern.edu/) Workshop in *WACV 2025*.
+- [2024.08] One paper on *Human Attention Interruption Analysis* accepted by *ICPR 2024*.
+- [2024.05] One patent on *Human Motion Prediction* approved.
+- [2023.09] One paper on *Defending against Data-Free Model Extraction (DFME)* accepted by *NeurIPS 2023*.
 - [2023.09] I joined [The Institute for Experiential AI (EAI)](https://ai.northeastern.edu/) at Northeastern Unversity as a Postdoctoral Research Fellow, working with [Dr. Agata Lapedriza](https://s3.sunai.uoc.edu/web/agata/index.html), [Dr. Sarah Ostadabbas](https://coe.northeastern.edu/people/ostadabbas-sarah/).
-- [2023.08] I graduated from UB! 🎉🎉
-- [2023.02] One paper on Continual Learning accepted by *CVPR 2023*.
-- [2023.01] I successfully defended my dissertation proposal.
-- [2022.07] One paper on Human Action Recognition accepted by *Neurocomputing*.
-- [2022.06] One paper on Human Motion Prediction accepted by *IROS 2022* and *IEEE Robotics and Automation Letters*.
+- [2023.08] I graduated from UB! 🎓🎓
+- [2023.02] One paper on *Continual Learning* accepted by *CVPR 2023*. Congratulations to [Zhenyi](https://joey-wang123.github.io/) and all collaborators! 🎉🎉
+- [2023.01] I successfully defended my dissertation proposal. 🎉🎉
+- [2022.07] One paper on *Human Action Recognition* accepted by *Neurocomputing*. Congratulations to [Mengyi](https://scholar.google.com/citations?user=n9rw7ZgAAAAJ&hl) and all collaborators! 🎉🎉
+- [2022.06] One paper on *Human Motion Prediction* accepted by *IROS 2022* and *IEEE Robotics* and *Automation Letters*. Congratulations to [Zhibo](https://www.linkedin.com/in/ubzhibozhang/) and all collaborators! 🎉🎉
 - [2022.02] I joined [XPENG Motors](https://heyxpeng.com/) as a Research Intern working with [Dr. Chen Bai](https://www.linkedin.com/in/chen-bai-a79743111/) and [Dr. Cheng Lu](https://www.linkedin.com/in/cheng-lu-5b24a739/).
 - [2021.05] I joined [OPPO US Research Center](https://www.innopeaktech.com/) as a Research Intern working with [Dr. Zhong Li](https://sites.google.com/site/lizhong19900216) and [Dr. Yi Xu](https://www.linkedin.com/in/yi-xu-42654823/).
-- [2021.01] One paper on Sign Language Recognition accepted by *IMWUT 2021*.
-- [2020.10] One paper on Human Action Prediction accepted by *ICPR 2020*.
-- [2020.04] One paper on Neural Architecture Search accepted by *IJCAI 2020*.
+- [2021.01] One paper on *American Sign Language Recognition* accepted by *IMWUT 2021*. Congratulations to [Yincheng](https://yinchengjin.github.io/) and all collaborators! 🎉🎉
+- [2020.10] One paper on *Human Action Prediction* accepted by *ICPR 2020*.
+- [2020.04] One paper on *Neural Architecture Search* accepted by *IJCAI 2020*. Congratulations to [Li'an](https://scholar.google.com/citations?user=2E3c39AAAAAJ&hl) and all collaborators! 🎉🎉
 - [2019.05] I joined [Fuji Xerox Palo Alto Lab (FXPAL)](https://www.linkedin.com/company/fx-palo-alto-laboratory/about/) as a Research Intern working with [Dr. Yanxia Zhang](https://www.yanxiazhang.com/) and [Dr. Qiong Liu](https://www.linkedin.com/in/qiong-liu-8229446/?locale=zh_CN).
-- [2018.10] One paper on Human Action Prediction accepted by *ICIP 2018*.
+- [2018.10] One paper on *Human Action Prediction* accepted by *ICIP 2018*.
 - [2018.08] I started my PhD in Computer Science at UB.
 
 </div>
