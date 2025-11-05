@@ -63,7 +63,15 @@ For NU students: feel free to send me an email if you are interested in working 
 </div>
 
 # Selected Publications 
-<a href='https://scholar.google.com/citations?user=lTUM3B0AAAAJ'><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/yjzhux/yjzhux.github.io/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <a href='https://scholar.google.com/citations?user=lTUM3B0AAAAJ'>
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/yjzhux/yjzhux.github.io/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+  </a>
+  <span id="busuanzi_container_page_pv" style="margin-left: auto;">
+    <img src="https://img.shields.io/badge/🌐 views-<span id='busuanzi_value_page_pv'></span>-9cf?labelColor=f6f6f6&color=9cf&style=flat">
+  </span>
+  <script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACVW 2025</div><img src='images/2025_UniMotion.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
