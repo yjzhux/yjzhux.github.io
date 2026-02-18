@@ -9,6 +9,8 @@ import time
 MAX_ATTEMPTS = int(os.getenv('SCHOLARLY_MAX_ATTEMPTS', '3'))
 BACKOFF_SECONDS = int(os.getenv('SCHOLARLY_BACKOFF_SECONDS', '15'))
 
+os.makedirs('results', exist_ok=True)
+
 
 def fetch_author() -> dict:
     return scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
@@ -35,7 +37,6 @@ name = author['name']
 author['updated'] = str(datetime.now())
 author['publications'] = {v['author_pub_id']:v for v in author['publications']}
 print(json.dumps(author, indent=2))
-os.makedirs('results', exist_ok=True)
 with open(f'results/gs_data.json', 'w') as outfile:
     json.dump(author, outfile, ensure_ascii=False)
 
