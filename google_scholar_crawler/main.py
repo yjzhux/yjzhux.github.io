@@ -21,7 +21,7 @@ for attempt in range(1, MAX_ATTEMPTS + 1):
         author = fetch_author()
         scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
         break
-    except MaxTriesExceededException as exc:
+    except (MaxTriesExceededException, AttributeError) as exc:
         last_error = exc
         print(f"Attempt {attempt} failed: {exc}")
         if attempt < MAX_ATTEMPTS:
