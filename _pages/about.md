@@ -68,9 +68,29 @@ For NU students: feel free to send me an email if you are interested in working 
     <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/yjzhux/yjzhux.github.io/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
   </a>
   <span id="busuanzi_container_page_pv" style="margin-left: auto;">
-    <img src="https://img.shields.io/badge/🌐 views-<span id='busuanzi_value_page_pv'></span>-9cf?labelColor=f6f6f6&color=9cf&style=flat">
+    <img
+      id="busuanzi_page_pv_badge"
+      alt="views"
+      src="https://img.shields.io/badge/🌐%20views--9cf?labelColor=f6f6f6&color=9cf&style=flat"
+    >
+    <span id="busuanzi_value_page_pv" style="display: none;"></span>
   </span>
   <script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <script>
+    (function () {
+      var n = 0, t = setInterval(function () {
+        var v = document.getElementById('busuanzi_value_page_pv');
+        var b = document.getElementById('busuanzi_page_pv_badge');
+        var c = v && (v.textContent || v.innerText || '').trim();
+        if (c && b) {
+          b.src = 'https://img.shields.io/badge/🌐%20views-' + encodeURIComponent(c) + '-9cf?labelColor=f6f6f6&color=9cf&style=flat';
+          clearInterval(t);
+        } else if (++n >= 20) {
+          clearInterval(t);
+        }
+      }, 300);
+    })();
+  </script>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACVW 2025</div><img src='images/2025_UniMotion.png' alt="sym" width="100%"></div></div>
