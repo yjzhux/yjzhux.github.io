@@ -68,24 +68,32 @@ For NU students: feel free to send me an email if you are interested in working 
     <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/yjzhux/yjzhux.github.io/google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
   </a>
   <span id="busuanzi_container_page_pv" style="margin-left: auto;">
+    <!-- Placeholder badge: will be replaced with the live page view count after busuanzi returns data. -->
     <img
       id="busuanzi_page_pv_badge"
       alt="views"
       src="https://img.shields.io/badge/🌐%20views--9cf?labelColor=f6f6f6&color=9cf&style=flat"
     >
+    <!-- Hidden target element populated by busuanzi ("busuanzi_value_page_pv"). -->
     <span id="busuanzi_value_page_pv" style="display: none;"></span>
   </span>
-  <script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <!-- Load busuanzi counter script (JSONP-based page/site view stats). -->
+  <script src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   <script>
     (function () {
-      var n = 0, t = setInterval(function () {
+      // Poll the hidden busuanzi value and update the Shields badge once a number is available.
+      var n = 0, maxRetry = 50, t = setInterval(function () {
         var v = document.getElementById('busuanzi_value_page_pv');
         var b = document.getElementById('busuanzi_page_pv_badge');
         var c = v && (v.textContent || v.innerText || '').trim();
         if (c && b) {
           b.src = 'https://img.shields.io/badge/🌐%20views-' + encodeURIComponent(c) + '-9cf?labelColor=f6f6f6&color=9cf&style=flat';
           clearInterval(t);
-        } else if (++n >= 20) {
+        } else if (++n >= maxRetry) {
+          // Fallback label if busuanzi value is still unavailable after timeout.
+          if (b) {
+            b.src = 'https://img.shields.io/badge/🌐%20views-N%2FA-9cf?labelColor=f6f6f6&color=9cf&style=flat';
+          }
           clearInterval(t);
         }
       }, 300);
